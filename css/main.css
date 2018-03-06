@@ -1,0 +1,14 @@
+body{
+  font-family: 'Righteous', cursive;
+  margin:0;
+}
+
+h1{
+  font-size: 300%;
+  color: #e84848;
+  text-align: center;
+}
+
+.btn-success{
+  background-color: #7aa44a;
+}
